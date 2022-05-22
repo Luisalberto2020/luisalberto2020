@@ -10,7 +10,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/luis-alberto-valle-correro-679ab4200/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/luis-alberto-valle-correro-679ab4200/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://app.hackthebox.com/profile/230893" title="hackthebox"><img width="22" src="./images/Hackthebox.jpg"> HackThebox</a></code>
  
 </h5>
