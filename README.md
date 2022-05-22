@@ -36,34 +36,47 @@
   <br>
   📫 How to reach me: <a href="mailto: l.alberto.vallle@gmail.com">l.alberto.vallle@gmail.com</a>
 </p>
+<hr>
+<h2 align="center">📘 Notes 📘</h2>
+<p align="center">
+<a href="https://vaulted-aletopelta-dff.notion.site/Ciberseguridad-1f7f141e63a6471e96f842d86ffddd1c">🔒 Cibersegurity</a>
+<br>
+<a href="https://vaulted-aletopelta-dff.notion.site/Programacion-22f95b459a064cf9aa8e58de3f0b14f4">💡 Develop</a>
+</p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks  & Abilities 🔥</h2>
 <br>
 <p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Spring" height="25" src="images/spring.png"></code>
-   <code><img title="Mongo" height="25" src="./images/mongodb.png"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="python" style="vertical-align:top; margin:4px">  
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" style="vertical-align:top; margin:4px">
+ 
+</p>
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="python" style="vertical-align:top; margin:4px">  
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="bash" style="vertical-align:top; margin:4px">
+ 
 </p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<div>
 <br>
 <p align=center>
   <div align=center>
@@ -92,7 +105,7 @@
   <a align="left" href="https://github.com/Luisalberto2020/blog" title="Blog"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalberto2020&repo=blog&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/franciscoGarridoLara/SnapKing" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoGarridoLara&repo=Snapking&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
+</div>
 <br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
