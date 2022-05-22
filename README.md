@@ -31,7 +31,7 @@
   <br>
   💻 I love writing code and learn anything new and I am enthustiastic of cibersegurity
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how to build a website  with Python
   
   <br>
   📫 How to reach me: <a href="mailto: l.alberto.vallle@gmail.com">l.alberto.vallle@gmail.com</a>
