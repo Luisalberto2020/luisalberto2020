@@ -27,7 +27,7 @@
   <br>
   🔬 I'm currently studying for OSCP 
   <br>
-  🎓 I graduated from IES Cañaveral of an especiality of Cibersegurity  IES Villablanca of hight grade of developoing and Medium grade of Developing Madrid
+  🎓 I graduated from IES Cañaveral of an especiality of Cibersegurity andin  IES Villablanca of hight grade of developoing and Medium grade of Developing Madrid
   <br>
   💻 I love writing code and learn anything new and I am enthustiastic of cibersegurity
   <br>
